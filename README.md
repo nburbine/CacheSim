@@ -1,2 +1,2 @@
 # CacheSim
-n-Way Associative Cache Simulator
+n-way associative cache simulator
